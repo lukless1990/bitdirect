@@ -1,3 +1,17 @@
+![alt tag](https://ip.bitcointalk.org/?u=https%3A%2F%2Fi.imgsafe.org%2F8999529651.png&t=575&c=f6raSNvDF4JH3Q)
+
+
+BITD  |  Algo : Cryptonight  |  Egalitarian proof of work
+
+Retargets at every block  |  Max supply : 15,000,000,000  |  Target : 60 seconds
+
+![alt tag](https://ip.bitcointalk.org/?u=https%3A%2F%2Fi.imgsafe.org%2Fa4b0a308b7.png&t=575&c=GKRcxZaRpeH_iA)
+
+-------------------------------------------
+
+
+
+
 This is fork of the reference code for [CryptoNote](https://cryptonote.org) cryptocurrency protocol.
 
 * Launch your own CryptoNote currency: [CryptoNote Starter](https://cryptonotestarter.org/)
