@@ -20,7 +20,7 @@ This is fork of the reference code for [CryptoNote](https://cryptonote.org) cryp
 
 Forking guilde is omitted here.
 
-## Building CryptoNote 
+## Building Bitdirect
 
 ### On *nix
 
