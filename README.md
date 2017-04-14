@@ -1,9 +1,9 @@
 ![alt tag](https://ip.bitcointalk.org/?u=https%3A%2F%2Fi.imgsafe.org%2F8999529651.png&t=575&c=f6raSNvDF4JH3Q)
 
 
-BITD  |  Algo : Cryptonight  |  Egalitarian proof of work
+Symbol: BITD  |  Algorithm: Cryptonight  |  Egalitarian proof of work  |  Difficulty: Retargets at every block
 
-Retargets at every block  |  Max supply : 15,000,000,000  |  Target : 60 seconds
+Max Supply: 15,000,000,000  |  Target: 60 seconds | Emission: 24  |  U/W: 3 seconds |  P2P: 39500  |  RPC: 39400
 
 ![alt tag](https://ip.bitcointalk.org/?u=https%3A%2F%2Fi.imgsafe.org%2Fa4b0a308b7.png&t=575&c=GKRcxZaRpeH_iA)
 
